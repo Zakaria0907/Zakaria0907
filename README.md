@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria!</h1>
-<h3 align="center">A Passionate Software Engineering Student | Focused on Conversational AI & Scalable Solutions with Spring</h3>
+<h3 align="center">A Passionate Software Engineering Student </h3>
 
-- 🔭 I’m currently working on **Rently**
-
-- 🌱 I’m currently learning **Advanced Bash Scripting**
+- 🔭 I’m currently an Intern @ **Intact Assurance **
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10](https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10)
 
