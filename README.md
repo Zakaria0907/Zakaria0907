@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10](https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10)
 
-- 📫 How to reach me **zakaria.elmanar@gmail.com**
+- 📫 How to reach me **elmanarz@hotmail.com**
 
 <br>
 
