@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria!</h1>
-<h3 align="center">A Passionate Software Engineering Student </h3>
-
-- 🔭 I’m currently an Intern @ **Intact Assurance**
-
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10](https://my-personal-portfolio.notion.site/my-personal-portfolio/Zakaria-El-Manar-El-Bouanani-2de43100d9f949f6a86b99a9ae48ac10)
+<h3 align="center">A Passionate Software Engineering </h3>
 
 - 📫 How to reach me **elmanarz@hotmail.com**
 
